@@ -40,9 +40,8 @@ A simple and responsive web-based Image Editor built using HTML, CSS, and JavaSc
 4. Use the sliders and buttons to edit the image.
 5. Click "Save" to download the edited version.
 
-## 📸 Preview
 
-![Preview](screenshot.png) <!-- Optional: Add a screenshot of your project -->
+
 
 ## ✍️ Author
 
