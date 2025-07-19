@@ -18,12 +18,6 @@ It features a clean UI, responsive layout, and intuitive controls.
 
 ---
 
-## 🚀 Live Demo
-
-> Coming Soon (Deploy easily on GitHub Pages or Netlify)
-
----
-
 ## 💻 Technologies Used
 
 - HTML5
@@ -66,7 +60,7 @@ image-editor/
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**SHIVA MANI**  
 • shivamanikappala@gmail.com
 
 ---
