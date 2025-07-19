@@ -1,52 +1,93 @@
-# Image Editor Web App
+# 🖼️ Image Editor Web App
 
-A simple and responsive web-based Image Editor built using HTML, CSS, and JavaScript. It allows users to apply real-time image filters and transformations like brightness, contrast, saturation, blur, rotation, and flipping.
+<p align="center">
+  A stylish and intuitive web-based image editor that lets you apply filters, flip, rotate, and save your images effortlessly. Built with pure HTML, CSS, and JavaScript.
+</p>
 
-## 🔧 Features
-
-- Upload any image from your device
-- Adjust image properties:
-  - Saturation
-  - Blur
-  - Brightness
-  - Contrast
-- Rotate or flip the image:
-  - Rotate left / right
-  - Flip vertically / horizontally
-- Reset to default state
-- Download the edited image
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Font Awesome for icons
-
-## 📁 Project Structure
-
-📦 Image Editor App
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 index.js
-┣ 📄 panda.jpg (sample image)
-
-
-## 🚀 Getting Started
-
-1. Clone the repository or download the ZIP.
-2. Open `index.html` in any modern web browser.
-3. Click "Choose" to upload an image.
-4. Use the sliders and buttons to edit the image.
-5. Click "Save" to download the edited version.
-
-
-
-
-## ✍️ Author
-
-Developed by KAPPALA SHIVA MANI  
-Inspired by frontend UI tutorials and built as a mini project.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Image+Editor+Preview" alt="Image Editor Preview" width="80%">
+</p>
 
 ---
 
+## ✨ Features
+
+- ✅ Real-time image editing  
+- 🎚️ Filter controls – **Saturation**, **Blur**, **Brightness**, **Contrast**  
+- 🔄 Rotate left & right  
+- ↔️ Flip horizontally or vertically  
+- 🖼️ Upload custom images  
+- 💾 Save edited images  
+- ♻️ Reset to default filters  
+- 📱 Responsive layout and clean UI  
+
+---
+
+## 📁 Project Structure
+
+```
+image-editor/
+├── index.html        # Main HTML page
+├── style.css         # App styling and filter layout
+├── index.js          # Core logic for filters and controls
+└── panda.jpg         # Sample image
+```
+
+---
+
+## 🧪 Tech Stack
+
+- ✅ HTML5  
+- 🎨 CSS3 (custom styles and layout)  
+- ⚙️ JavaScript (ES6 for interactivity)  
+- 🎯 Font Awesome (icon-based controls)
+
+---
+
+## 🚀 Getting Started
+
+### 📌 Clone the repository
+
+```bash
+git clone https://github.com/your-username/image-editor.git
+cd image-editor
+```
+
+### ▶️ Run the app
+
+Just open `index.html` in your browser. No server or installation required.
+
+---
+
+## 🖱️ How to Use
+
+1. Click the **Choose** button to upload your image.
+2. Adjust filters using the sliders.
+3. Use **rotate** or **flip** icons to transform the image.
+4. Click **Save** to download the edited image.
+5. Use **R** to reset all settings.
+
+---
+
+## 📸 Preview
+
+> Here's what it looks like in action:
+
+![App Preview](https://via.placeholder.com/600x300.png?text=Filter+Controls+%2B+Preview)
+
+---
+
+## 🌱 Future Enhancements
+
+- ✂️ Crop and resize functionality  
+- 🧠 AI-based filter suggestions  
+- 🕒 Undo/Redo history  
+- ☁️ Cloud image storage and export options  
+
+---
+
+
+## 👤 Author
+
+**SHIVA MANI**  
+📧 shivamanikappala@gmail.com
